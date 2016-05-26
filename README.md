@@ -5,10 +5,11 @@ This demo is only focus on how to use es6 import and export using grunt.
 
 
 ##install:
-
+```
  npm install --save-dev grunt-babel babel-preset-es2015
-
+```
 
 ##Run Command:
-
+```
  grunt babel
+```
