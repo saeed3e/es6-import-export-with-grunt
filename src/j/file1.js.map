@@ -1,0 +1,1 @@
+{"version":3,"sources":["../jass/file1.js"],"names":[],"mappings":";;;;;;AAAA,GAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAQ,GAAR,CAAY;WAAK,IAAI,CAAJ;GAAL,CAAZ;;AAEO,MAAI,gBAAG,CAAH","file":"file1.js","sourcesContent":["[1,2,3].map(n => n + 1);\r\n\r\nexport var x =2;"]}
